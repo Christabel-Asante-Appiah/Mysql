@@ -23,6 +23,7 @@ And a summary table was used to present average sales and total revenue per cate
 
 Future Exploration:
 Looking ahead, I plan to analyze seasonal trends using the time series nature of the order_date. Dive into customer segmentation and explore preferred payment methods.
+![image](https://github.com/user-attachments/assets/588b5941-a219-4543-bbc9-78e358627d12)
 
  
 
